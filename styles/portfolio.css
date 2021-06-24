@@ -20,10 +20,13 @@ h6 {
   color: rgb(54, 37, 153);
   font-family: var(--heading-font-family);
   font-weight: bold;
+  text-align: center;
 }
 
 h1 {
   font-size: 96px;
+  text-align: center;
+  margin: 0;
 }
 
 p {
