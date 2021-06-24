@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: black;
+  color: rgb(54, 37, 153);
   font-family: var(--heading-font-family);
   font-weight: bold;
 }
