@@ -1,9 +1,9 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --branding-color: #a5c2e9;
+  --secondary-color: #f0cbeb;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
-    --primary-color: #6c63ff;
+    --primary-color: #00b9b9;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: rgb(54, 37, 153);
+  color: rgb(107, 10, 55);
   font-family: var(--heading-font-family);
   font-weight: bold;
   text-align: center;
@@ -206,8 +206,3 @@ p {
   margin: 30px;
 }
 
-.open-source-link {
-  font-size: 10px;
-  text-align: center;
-  padding: 15px 30px;
-}
