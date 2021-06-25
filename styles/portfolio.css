@@ -158,3 +158,26 @@ p {
   color: white;
   padding: 15px;
 }
+
+.about-section {
+  padding: 160px 20px;
+}
+
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+
+.about-section-content {
+  margin: 30px;
+}
+
+.img-fluid{
+  border-radius: 1px;
+  box-shadow: #272142;
+}
